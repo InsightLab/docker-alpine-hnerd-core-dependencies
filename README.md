@@ -1,2 +1,2 @@
-# docker-alpine-hnerd-core-dependencies
+# hnerd-core-dependencies
 Small Docker image with HNerd core Dependencies
